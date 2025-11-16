@@ -262,18 +262,11 @@ Edit `crypto.js`:
 date.setDate(date.getDate() + 90); // Change 90 to your value
 ```
 
----
-
-## 📄 License
-
-Free to use for educational purposes.
-
----
-
-## 👨‍💻 Author
+Deploy link -> https://pwmgr.vercel.app/
 
 Created as a student-friendly password manager project.
 
 ---
 
 Enjoy your secure password manager! 🔐✨
+
